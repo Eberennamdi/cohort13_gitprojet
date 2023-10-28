@@ -1,3 +1,4 @@
 mango 20cad
 pear 15cad
+Apple 10cad
 
