@@ -1,0 +1,4 @@
+This is my first git job push into my remote repo.
+I cherish this first job so much. Infact, I am using it to learn
+ to be very conversant with pushing jobs into the remote repo.
+Please bear with me.
